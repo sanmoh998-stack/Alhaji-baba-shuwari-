@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanmoh998-stack.github.io/Alhaji-baba-shuwari-/sitemap.xml
